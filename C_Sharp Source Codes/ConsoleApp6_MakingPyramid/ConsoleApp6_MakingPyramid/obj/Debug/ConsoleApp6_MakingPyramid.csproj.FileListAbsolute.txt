@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2017\Projects\ConsoleApp6_MakingPyramid\ConsoleApp6_MakingPyramid\bin\Debug\ConsoleApp6_MakingPyramid.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\ConsoleApp6_MakingPyramid\ConsoleApp6_MakingPyramid\bin\Debug\ConsoleApp6_MakingPyramid.exe
+c:\users\dell\documents\visual studio 2017\Projects\ConsoleApp6_MakingPyramid\ConsoleApp6_MakingPyramid\bin\Debug\ConsoleApp6_MakingPyramid.pdb
+c:\users\dell\documents\visual studio 2017\Projects\ConsoleApp6_MakingPyramid\ConsoleApp6_MakingPyramid\obj\Debug\ConsoleApp6_MakingPyramid.exe
+c:\users\dell\documents\visual studio 2017\Projects\ConsoleApp6_MakingPyramid\ConsoleApp6_MakingPyramid\obj\Debug\ConsoleApp6_MakingPyramid.pdb
+c:\users\dell\documents\visual studio 2017\Projects\ConsoleApp6_MakingPyramid\ConsoleApp6_MakingPyramid\obj\Debug\ConsoleApp6_MakingPyramid.csprojResolveAssemblyReference.cache
