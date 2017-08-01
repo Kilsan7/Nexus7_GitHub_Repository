@@ -1,0 +1,2 @@
+gitMy1stProject를 메인으로 하자.
+Nexus7_GitHub_Repoitory는 보조 Repository로 하자.
